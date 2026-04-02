@@ -1,4 +1,9 @@
-## Hi there 👋
+Hello!
+
+I am a data science student at UC Davis. Currently, I am very interested in Large Language Models, Natural Language Processing, and full-stack development.
+
+Contact info:
+Email: <becketthayes@gmail.com>
 
 <!--
 **becketthayes/becketthayes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
